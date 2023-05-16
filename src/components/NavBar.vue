@@ -118,9 +118,9 @@ export default {
 
 <style>
 .navbar{
-  background: linear-gradient(50deg, #034e09, #04ee04);
-  animation: hue-rotate 3s linear infinite alternate;
-  border-color: rgb(14, 87, 14);
+  background: linear-gradient(50deg, #063d06, #3bf702);
+  animation: hue-rotate 5s linear infinite alternate;
+  border-color: rgb(16, 46, 9);
 }
 @keyframes hue-rotate {
   to{filter: hue-rotate(90deg);}
